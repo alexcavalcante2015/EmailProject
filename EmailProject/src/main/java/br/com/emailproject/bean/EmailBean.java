@@ -10,7 +10,7 @@ import br.com.emailproject.dto.Emaillayout;
 import br.com.emailproject.model.Email;
 import br.com.emailproject.service.EmailService;
 
-@Named("")
+@Named
 @RequestScoped
 public class EmailBean implements Serializable {
 
